@@ -1,0 +1,51 @@
+location_id,city,country_code,continent,customer_id
+1,Iron River,US,America,2
+2,Patti,IN,Asia,41
+3,Kherson,UA,Europe,10
+4,Mira Mesa,US,America,46
+5,Betamcherla,IN,Asia,36
+6,Montana,BG,Europe,43
+7,Tornio,FI,Europe,4
+8,Alytus,LT,Europe,37
+9,Shimotoda,JP,Asia,6
+10,Gorakhpur,IN,Asia,7
+11,Bryn Mawr-Skyway,US,America,8
+12,Hutchinson,US,America,13
+13,Huntley,US,America,22
+14,Lancing,GB,Europe,11
+15,Namerikawa,JP,Asia,42
+16,Balikpapan,ID,Asia,21
+17,Harstad,NO,Europe,3
+18,Palm Desert,US,America,28
+19,Keizer,US,America,31
+20,Barmbek-Nord,DE,Europe,40
+21,Zaysan,KZ,Asia,48
+22,Foshan,CN,Asia,49
+23,Elbeuf,FR,Europe,23
+24,Dongdu,CN,Asia,12
+25,Nova Kakhovka,UA,Europe,30
+26,Sainte-Catherine,CA,America,1
+27,Mianwali,PK,Asia,17
+28,Thomasville,US,America,5
+29,Gernika-Lumo,ES,Europe,19
+30,Kearns,US,America,20
+31,Salima,MW,Africa,38
+32,Kismayo,SO,Africa,34
+33,Copperas Cove,US,America,35
+34,Manaoag,PH,Asia,14
+35,Carlsbad,US,America,27
+36,Shuangcheng,CN,Asia,18
+37,High Wycombe,GB,Europe,39
+38,Yangambi,CD,Africa,26
+39,Patnos,TR,Europe,50
+40,Curitiba,BR,America,32
+41,Watsonville,US,America,25
+42,Grand Forks,US,America,47
+43,Lesnoy,RU,Asia,9
+44,Tarkwa,GH,Africa,33
+45,Suzaka,JP,Asia,44
+46,Shagamu,NG,Africa,29
+47,Beni,CD,Africa,45
+48,Jambi City,ID,Asia,16
+49,Nowshahr,IR,Asia,24
+50,Devizes,GB,Europe,15

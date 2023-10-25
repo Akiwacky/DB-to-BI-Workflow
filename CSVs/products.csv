@@ -1,0 +1,121 @@
+product_id,product_name,price,stock,category_id
+3,AudioStream Bluetooth Speaker,249.87,78,1
+66,ClassicChic Blazer,421.1,59,3
+82,LaidBack Linen Pants,306.74,17,3
+12,LightLink Smart Bulb,427.65,24,1
+71,WarmUp Winter Coat,382.63,68,3
+88,RetroRevival Vintage Jacket,218.4,10,3
+17,AquaGuard Waterproof Phone Case,492.95,71,1
+101,BookishBundle Subscription Box,95.81,96,4
+55,BerryBounty Blueberries,393.35,23,2
+15,VisionQuest VR Headset,130.51,81,1
+58,SeaFresh Salmon Fillet,61.1,38,2
+10,QuantumDrive External SSD,91.91,47,1
+14,SonicLink Noise-Canceling Headphones,440.36,72,1
+11,DynaSync Smart Thermostat,59.26,68,1
+67,SportyStride Sneakers,414.29,24,3
+100,BookNook Miniature Library,102.97,40,4
+20,AstroView Telescope,358.69,53,1
+105,BookBound Planner,486.69,49,4
+117,PoetryPonder Notebook,342.6,6,4
+45,FrostyBites Frozen Pizza,442.61,60,2
+6,EcoCharge Solar Power Bank,360.72,39,1
+95,ClassicCollection Hardcover Classics,25.93,89,4
+119,StorybookCandle Collection,468.36,95,4
+86,Wanderlust Travel Hat,137.96,0,3
+51,OliveGrove Extra Virgin Olive Oil,454.05,59,2
+83,Footloose Flip-Flops,316.57,99,3
+60,GrillMaster BBQ Ribs,58.81,66,2
+40,SodaSplash Cola,383.79,4,2
+109,LibraryLegacy Bookplate Stickers,8.25,82,4
+19,VitalScan Health Monitor,298.78,89,1
+56,SweetSensation Strawberries,18.21,3,2
+106,NovelEscape Cozy Blanket,377.61,29,4
+32,ButterBliss Salted Butter,236.54,74,2
+37,QuenchLife Fruit Juice,285.47,100,2
+61,ComfyCotton T-Shirt,208.81,12,3
+4,VoltVision HD Webcam,373.59,30,1
+43,GoldenStart Pancake Mix,417.23,67,2
+87,DapperDress Socks,12.88,91,3
+49,SaucySensation Tomato Ketchup,18.2,24,2
+25,CanMaster Tomato Sauce,77.29,75,2
+90,PlaidPerfection Flannel Shirt,456.08,10,3
+8,PixelGlide Graphics Tablet,285.47,73,1
+27,SoupSavor Chicken Noodle Soup,152.44,24,2
+9,WaveSync Wireless Earbuds,115.86,77,1
+103,BookWormhole Bookends,234.93,87,4
+97,BookLover's Bliss Reading Chair,446.46,21,4
+38,BrewMaster Coffee Beans,147.0,94,2
+57,PrimeCut Beef Steak,51.52,10,2
+24,CrispCrust Baguette,27.53,81,2
+94,Inkwell Treasures Journal,397.73,79,4
+50,SpiceFusion BBQ Sauce,400.6,67,2
+81,SunSplash Swimwear,245.86,45,3
+70,UrbanEdge Leather Jacket,362.7,86,3
+47,IceCreamDreams Vanilla Ice Cream,411.68,29,2
+115,BookWorm's Delight Mug,190.58,26,4
+99,Bookmark Bonanza Set,314.67,71,4
+116,FairyTales Illustrated Art Prints,294.21,71,4
+53,FreshHarvest Organic Apples,334.32,78,2
+18,eReaderX E-Ink Reader,26.77,62,1
+29,MooMagic Organic Milk,77.3,63,2
+65,ActiveLife Yoga Pants,460.3,48,3
+34,NuttyMunch Trail Mix,114.88,19,2
+59,ChickenDeluxe Boneless Chicken Breast,59.57,24,2
+16,TerraLink GPS Tracker,498.98,70,1
+92,Bookworm's Paradise Reading Lamp,82.48,79,4
+107,LiteraryJourney World Map,302.54,68,4
+75,ChicComfort Leggings,76.91,90,3
+69,CoolBreeze Summer Shorts,334.06,61,3
+54,GreenLeafy Greens Mix,30.04,28,2
+85,HikingHero Outdoor Jacket,77.26,8,3
+80,CharmChiffon Blouse,195.54,65,3
+46,VeggieFreeze Mixed Berries,411.76,5,2
+62,DenimDream Jeans,401.68,31,3
+21,FreshFlour Artisan Bread,264.27,14,2
+23,SweetTreats Bakery Delights,324.7,63,2
+72,LuxeLinen Dress Shirt,289.54,12,3
+36,SnackAttack Veggie Chips,84.23,55,2
+1,TechTrak Smartwatch,329.64,0,1
+120,Booklover's Retreat Coasters,178.5,85,4
+22,SliceRight Whole Wheat Loaf,239.54,55,2
+26,VeggieHarvest Mixed Vegetables,483.36,64,2
+113,Bibliophile's Delight Puzzle,476.72,59,4
+48,HeatNServe Chicken Tenders,230.63,45,2
+2,PowerPulse Wireless Charger,24.96,96,1
+39,SipSational Iced Tea,347.36,41,2
+5,PixelSync Gaming Monitor,173.37,21,1
+63,FashionFusion Dress,381.5,58,3
+64,CozyKnit Sweater,181.83,22,3
+108,BookClub Companion Tote Bag,263.66,19,4
+79,DenimDelight Jumpsuit,224.85,30,3
+78,SleekSilk Scarf,455.04,23,3
+33,CrunchWave Potato Chips,239.69,72,2
+74,WorkoutWarrior Athletic Shorts,273.28,50,3
+102,PageTurner Reading Glasses,46.15,100,4
+7,CyberLink Home Security System,207.84,18,1
+44,BerryBlast Fruit Spread,278.2,86,2
+42,CrunchyOats Granola,263.32,9,2
+68,GlamourGlow Evening Gown,444.23,82,3
+28,BeanBlend Three-Bean Chili,262.16,99,2
+30,AlmondEaze Almond Milk,496.06,0,2
+73,EcoChic Organic Cotton Tee,280.02,90,3
+89,TrailTrek Hiking Shorts,398.61,4,3
+111,ShakespeareanSonnet Poster,161.18,43,4
+76,SmartStyle Business Suit,106.42,81,3
+52,MustardMagic Dijon Mustard,338.55,43,2
+98,WhisperingPages E-Reader,388.38,74,4
+91,LiteraryGems Book Set,357.13,11,4
+118,BookishElegance Book Cover,100.72,54,4
+84,SnowHike Snow Boots,319.13,88,3
+110,ReadersDelight Bookstand,307.99,60,4
+112,BookishQuotes Wall Decals,122.75,15,4
+13,AeroGlide Drone,482.68,34,1
+35,PopCraze Popcorn,92.22,6,2
+114,ChapterVerse Bookmarks,259.02,97,4
+93,NovelNavigator Bookshelf,228.58,91,4
+104,BookishCharm Bracelet,474.04,63,4
+96,Storyteller's Dream Pen,206.64,61,4
+77,RunReady Sports Bra,363.84,85,3
+31,CreamyDelight Greek Yogurt,197.27,10,2
+41,MorningFuel Cereal Bars,458.7,33,2
