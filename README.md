@@ -86,7 +86,7 @@ In Power BI, I transformed specific data fields, created a separate date table f
 
 [BI Model](https://github.com/Akiwacky/DB-to-BI-Workflow/blob/main/Images/Power%20Bi%20Model.png)
 [Overview](https://github.com/Akiwacky/DB-to-BI-Workflow/blob/main/Images/Overview.png)
-[Sales Analysis](https://github.com/Akiwacky/DB-to-BI-Workflow/blob/main/Images/Sales%20Report.png))
+[Sales Analysis](https://github.com/Akiwacky/DB-to-BI-Workflow/blob/main/Images/Sales%20Report.png)
 [Customer Anaylsis](https://github.com/Akiwacky/DB-to-BI-Workflow/blob/main/Images/Customer%20Analysis.png)
 
 
